@@ -6,7 +6,7 @@ It is made entirely in Python, using a library called: "socket".
  *How do you use the program?*
  Please, before using it, use it for **EDUCATIONAL PURPOSES ONLY** because this could *potentially* get you into trouble.
  
- First, you are gonna have to open the "KellyV.py" file - upon opening, no GUI is gonna be shown, that is because the connection with the user has not been established yet. To establish a connection, open up the "victim.py" file. 
+ First, you are gonna have to open the "KellyV.py" file, then to establish a connection, open up the "victim.py" file. 
  After the connection is established, the GUI appears. 
  There are few elements, the output is shown in the Text object, while we are entering commands in the Entry object.
  The button "EXECUTE" sends the command to the user.
